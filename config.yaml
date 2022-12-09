@@ -1,0 +1,12 @@
+
+languageCode: 'en'
+title: 'Garfield: The Musical'
+theme: "PaperModX"
+description: "A Musical Interpretation of the Classic Garfield Comics"
+
+params:
+  disableThemeToggle: true
+  defaultTheme: dark
+  article:
+    showDate: false
+    showReadingTime: false
