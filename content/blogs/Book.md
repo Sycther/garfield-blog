@@ -3,11 +3,7 @@ title: "Writer's Room"
 draft: false
 ---
 
-# jfjfj
-
-k
-
-# fjf
+# The Book
 
 > Working boys were up to our ass in shit
 > what is this buisness
