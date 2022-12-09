@@ -1,4 +1,4 @@
-
+baseURL: "https://sycther.github.io/garfield-blog"
 languageCode: 'en'
 title: 'Garfield: The Musical'
 theme: "PaperModX"
