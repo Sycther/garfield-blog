@@ -42,50 +42,60 @@ First Draft For Lyrics
 ```e
     Oh, Odie….. Lasagna isn’t just some old food
 
-    Its the first thought of dawn
+    Its the first thought of dawn3
     Its the Last of day-break
     All it’s cheesy sauce
-    Really takes the cake
+    Really takes  the cake
 
-
-    ***Second verse here***
+    When the mornings glum
+    and you drank all of your coffee
+    just open your fridge
+    There you'll find your trophie!
 
     Have you ever seen such beauty before
     There’s no man nor dog i can love more
-    Then the precious pasta perfectly pasted
-    "Come to papa! Ya glorious Ba..."
-     (GARFIELD sees missing Lasagna)
+
+    oh that pretty perfect pasta freshly mastered
+    COME TO PAPA, YA GALRIOUS BA... (GARFIELD sees missing Lasagna)
 ```
 **Requiem** 
 ```e
-    (A)  
     I thought I held 
     The world in my hand
     But without you
     I cannot stand
-    (A)
     All these lonely days
     Oh, So Cold and frightful
     No more meat-full pasta
     Or sitting idle
-    (A)
     By the fire 
     the tv humming
     The crisp cool air
     dinner in the oven
 
-    
-    Wont you come back home
-    ***
-    So I'll sit by the window
-    waiting
-    For you to come back home
+    Ill always remeber those days
+    as im waiting for you
+
+    I'll wait by our window sill
+    as im waiting for you
 ```
 
 ### 12/11/22
 
-Requiem (Draft 1):
 
-{{<audiofile requiem.m4a >}}
+Oh, Lasagna (Full):
+
+{{<audiofile lasagna_full.mp3>}}
+
+oh, Lasagna (Instrumental Only):
+
+{{<audiofile lasagna_instrumental.mp3>}}
+
+[Oh Lasagna Sheet Music](lasagna.pdf)
 
 
+Requiem:
+
+{{<audiofile requiem.mp3 >}}
+
+[Requiem Sheet Music](requiem.pdf)

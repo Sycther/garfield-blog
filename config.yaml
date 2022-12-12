@@ -18,7 +18,7 @@ params:
   ShowFullTextinRSS: false
 
   homeInfoParams:
-    Title: "Garfield: Manic Monday" 
+    Title: "Garfield: Manic Monday"
     Content: |
       ## Summary
       --- 
